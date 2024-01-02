@@ -15,7 +15,7 @@ I'm Shahzadi Eman, a data scientist from Islamabad. Transforming data into actio
 
 ## Highlighted Projects
 
-- **Pet Health Data Analysis **: This project analyzes data related to pet owners, their pets, and medical procedures. The data encompasses information about pet owners, detailed pet profiles, and a comprehensive history of medical procedures performed on pets.
+- **Pet Health Data Analysis**: This project analyzes data related to pet owners, their pets, and medical procedures. The data encompasses information about pet owners, detailed pet profiles, and a comprehensive history of medical procedures performed on pets.
 - **Personal-Health-Dashboard**: It features code and documentation for displaying average heart rate, daily steps, calorie intake, and exercise session data!
  Alongside a graph that reflects the health score over time.
 ![Health tracker dashboard](https://github.com/Emanism/Emanism/assets/147303808/dae00a4b-f6e4-43bb-8212-394fddc50b43)
